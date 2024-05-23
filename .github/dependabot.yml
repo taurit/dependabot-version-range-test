@@ -4,3 +4,4 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+# comment added to trigger scan
